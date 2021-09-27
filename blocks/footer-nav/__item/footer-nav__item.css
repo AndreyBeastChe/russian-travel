@@ -1,0 +1,8 @@
+.footer-nav__item {
+    margin-right: 18px;
+    margin-bottom: 24px;
+}
+
+.footer-nav__item:nth-last-of-type() {
+    margin-right: 0px;
+}

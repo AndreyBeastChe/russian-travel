@@ -1,0 +1,10 @@
+.collage__items {
+    display: grid;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    grid-template-columns: repeat(auto-fit, 284px);
+    justify-content: center;
+    grid-auto-flow: row;
+    gap: 16px;
+}

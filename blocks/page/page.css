@@ -1,0 +1,9 @@
+.page {
+    font-family: "Inter";
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    color: #FFFFFF;
+    background-color: #2A2C2F;
+}
+
