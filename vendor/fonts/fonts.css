@@ -7,7 +7,7 @@
   src: url("Inter-Regular.woff2?v=3.19") format("woff2"),
        url("Inter-Regular.woff?v=3.19") format("woff");
   -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale
+  -moz-osx-font-smoothing: grayscale;
 }
 
 @font-face {
@@ -18,5 +18,5 @@
   src: url("Inter-Black.woff2?v=3.19") format("woff2"),
        url("Inter-Black.woff?v=3.19") format("woff");
   -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale
+  -moz-osx-font-smoothing: grayscale;
 }
