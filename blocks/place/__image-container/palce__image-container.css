@@ -1,4 +1,4 @@
-.palce__image-container {
+.place__image-container {
     grid-area: image;
     align-self: flex-start;
     max-width: 460px;
