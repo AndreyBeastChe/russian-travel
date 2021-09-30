@@ -1,11 +1,20 @@
 .top__subtitle {
+    font-style: normal;
     font-weight: normal;
     font-size: 30px;
-    line-height: 36px;
-    margin-right: auto;
-    margin-left: auto;
+    line-height: 120%;
+    margin: 32px auto 64px auto;
     text-align: center;
-    margin-top: 32px;
     max-width: 640px;
     max-height: 72px;
+}
+
+@media (max-width: 767px) {
+    .top__subtitle {
+        margin: 16px auto 40px auto;
+        font-size: 16px;
+        line-height: 125%;
+        max-width: 288px;
+        max-height: 40px;
+    }
 }

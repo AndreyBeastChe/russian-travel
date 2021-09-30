@@ -1,0 +1,13 @@
+.places {
+    display: grid;
+    justify-content: center;
+    row-gap: 80px;
+    grid-template-columns: fit-content(984px);
+    margin-bottom: 92px;
+}
+
+@media (max-width: 767px) {
+    .lang-select__lang-link {
+        margin-bottom: 66px;
+    }
+}

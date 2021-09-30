@@ -1,0 +1,16 @@
+.lang-select {
+    display: flex;
+    align-self: end;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    margin: 46px 24px 0 auto;
+}
+
+
+@media (max-width: 767px) { 
+    .lang-select  {
+        margin-top: 30px;
+        margin-right: 16px;
+    }
+}

@@ -1,0 +1,20 @@
+.top__remark {
+    font-style: normal;
+    font-size: 10px;
+    line-height: 140%;
+    letter-spacing: 1.5px;
+    text-transform: uppercase;
+}
+
+@media (max-width: 1023px) {
+    .top__remark {
+        margin-left: 24px;
+    }
+}
+
+@media (max-width: 767px) {
+    .top__remark {
+        margin-left: 16px;
+    }
+}
+ 

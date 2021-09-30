@@ -1,0 +1,16 @@
+.fullscreen__title {
+  max-width: 560px;
+  margin: auto;
+  margin-bottom: 32px;
+  font-weight: 900;
+  font-size: 72px;
+  line-height: 76px;
+}
+
+@media (max-width: 767px) {
+  .fullscreen__title {
+    font-size: 32px;
+    line-height: 109%;
+    margin-bottom: 16px;
+  }
+}
