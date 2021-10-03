@@ -1,6 +1,5 @@
 @import url(../vendor/normalize.css);
 @import url(../vendor/fonts/fonts.css);
-@import url(../vendor/fonts/Inter-Web/inter.css);
 @import url(../blocks/link/link.css);
 
 @import url(../blocks/lang-select/lang-select.css);
@@ -27,6 +26,7 @@
 @import url(../blocks/about/__text/about__text.css);
 @import url(../blocks/about/__item/about__item.css);
 @import url(../blocks/about/__list/about__list.css);
+@import url(../blocks/about/__span-accent/about__span-accent.css);
 @import url(../blocks/about/__title/about__title.css);
 
 
@@ -57,6 +57,4 @@
 @import url(../blocks/footer/__copyright/footer__copyright.css);
 
 @import url(../blocks/footer-nav/footer-nav.css);
-@import url(../blocks/footer-nav/__item/footer-nav__item.css);
 @import url(../blocks/footer-nav/__link/footer-nav__link.css);
-@import url(../blocks/footer-nav/__list/footer-nav__list.css);

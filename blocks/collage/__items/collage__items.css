@@ -11,22 +11,22 @@
 }
 
 @media (max-width: 1279px) {
-    .photo-grid__list {
+    .collage__items {
         grid-template-columns: repeat(auto-fit, 300px);
         gap: 14px;
     }
 }
 
 @media (max-width: 1023px) {
-    .photo-grid__list {
+    .collage__items {
         grid-template-columns: repeat(auto-fit, 352px);
         gap: 16px;
     }
 }
 
 @media (max-width: 767px) {
-    .photo-grid__list {
+    .collage__items {
         grid-template-columns: repeat(auto-fit, 288px);
-        gap: 14px;
+        gap: 12px;
     }
 }

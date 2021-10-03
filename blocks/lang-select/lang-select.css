@@ -2,13 +2,10 @@
     display: flex;
     align-self: end;
     padding: 0;
-    margin: 46px 24px 0 auto;
 }
 
-
-@media (max-width: 767px) { 
-    .lang-select  {
-        margin-top: 30px;
-        margin-right: 16px;
+@media (max-width: 767px) {
+    .lang-select {
+        align-self: center;
     }
 }

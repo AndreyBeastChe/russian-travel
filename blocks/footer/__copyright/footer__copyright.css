@@ -9,13 +9,11 @@
     align-items: start;
 }
 
-
-
 @media (max-width: 767px) {
     .footer__copyright {
         justify-self: start;
-        font-size: 14px;
         line-height: 100%;
         margin-bottom: 24px;
+        line-height: 100%;
     }
 }

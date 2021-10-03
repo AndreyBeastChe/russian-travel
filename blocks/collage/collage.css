@@ -1,5 +1,20 @@
 .collage {
-    margin: 0;
     padding: 0;
-    margin-bottom: 92px;
+    margin: 0 48px 92px 48px;
+}
+
+@media (max-width: 1023px) {
+    .collage {
+        margin-left: 24px;
+        margin-right: 24px;
+        margin-bottom: 88px;
+    }
+}
+
+@media (max-width: 767px) {
+    .collage {
+        margin-left: 16px;
+        margin-right: 16px;
+        margin-bottom: 64px;
+    }
 }
