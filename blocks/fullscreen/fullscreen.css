@@ -6,3 +6,9 @@
     position: relative;
     align-items: center;
 }
+
+@media (max-width: 767px) {
+    .fullscreen {
+      margin-top: 66px;
+    }
+  }
