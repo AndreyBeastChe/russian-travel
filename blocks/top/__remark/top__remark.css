@@ -1,23 +1,22 @@
 .top__remark {
-    margin: 0;
-    padding: 0;
-    font-style: normal;
-    font-weight: normal;
-    font-size: 10px;
-    line-height: 140%;
-    letter-spacing: 1.5px;
-    text-transform: uppercase;
+  margin: 0;
+  padding: 0;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 10px;
+  line-height: 140%;
+  letter-spacing: 1.5px;
+  text-transform: uppercase;
 }
 
 @media (max-width: 1023px) {
-    .top__remark {
-        margin-left: 24px;
-    }
+  .top__remark {
+    margin-left: 24px;
+  }
 }
 
 @media (max-width: 767px) {
-    .top__remark {
-        margin-left: 16px;
-    }
+  .top__remark {
+    margin-left: 16px;
+  }
 }
- 

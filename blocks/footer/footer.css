@@ -1,19 +1,19 @@
 .footer {
-    display: grid;
-    grid-template-columns: 2fr 1fr;
-    padding: 92px 48px 0 48px;
+  display: grid;
+  grid-template-columns: 2fr 1fr;
+  padding: 92px 48px 0 48px;
 }
 
 @media (max-width: 1023px) {
-    .footer {
-        padding-left: 24px;
-        padding-right: 24px;
-    }
+  .footer {
+    padding-left: 24px;
+    padding-right: 24px;
+  }
 }
 
 @media (max-width: 767px) {
-    .footer {
-        grid-template-columns: 1fr;
-        padding: 64px 0 0 16px;
-    }
+  .footer {
+    grid-template-columns: 1fr;
+    padding: 64px 0 0 16px;
+  }
 }

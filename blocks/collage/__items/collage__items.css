@@ -1,32 +1,32 @@
 .collage__items {
-    display: grid;
-    margin: 0;
-    padding: 0;
-    list-style: none;
-    grid-template-columns: repeat(auto-fit, 284px);
-    justify-content: center;
-    align-items: center;
-    grid-auto-flow: row;
-    gap: 16px;
+  display: grid;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  grid-template-columns: repeat(auto-fit, 284px);
+  justify-content: center;
+  align-items: center;
+  grid-auto-flow: row;
+  gap: 16px;
 }
 
 @media (max-width: 1279px) {
-    .collage__items {
-        grid-template-columns: repeat(auto-fit, 300px);
-        gap: 14px;
-    }
+  .collage__items {
+    grid-template-columns: repeat(auto-fit, 300px);
+    gap: 14px;
+  }
 }
 
 @media (max-width: 1023px) {
-    .collage__items {
-        grid-template-columns: repeat(auto-fit, 352px);
-        gap: 16px;
-    }
+  .collage__items {
+    grid-template-columns: repeat(auto-fit, 352px);
+    gap: 16px;
+  }
 }
 
 @media (max-width: 767px) {
-    .collage__items {
-        grid-template-columns: repeat(auto-fit, 288px);
-        gap: 12px;
-    }
+  .collage__items {
+    grid-template-columns: repeat(auto-fit, 288px);
+    gap: 12px;
+  }
 }

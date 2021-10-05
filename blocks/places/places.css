@@ -1,18 +1,18 @@
 .places {
-    display: grid;
-    justify-content: center;
-    row-gap: 80px;
-    grid-template-columns: fit-content(984px);
+  display: grid;
+  justify-content: center;
+  row-gap: 80px;
+  grid-template-columns: fit-content(984px);
 }
 
 @media (max-width: 1023px) {
-    .places {
-        row-gap: 72px;
-    }
+  .places {
+    row-gap: 72px;
+  }
 }
 
 @media (max-width: 767px) {
-    .places {
-        row-gap: 50px;
-    }
+  .places {
+    row-gap: 50px;
+  }
 }

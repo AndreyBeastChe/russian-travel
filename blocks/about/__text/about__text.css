@@ -1,15 +1,15 @@
 .about__text {
-    margin: 40px 0 33px 0;
-    font-size: 16px;
-    line-height: 26px;
-    font-style: normal;
-    font-weight: normal;
-    max-width: 690px;
+  margin: 40px 0 33px 0;
+  font-size: 16px;
+  line-height: 26px;
+  font-style: normal;
+  font-weight: normal;
+  max-width: 690px;
 }
 
 @media (max-width: 1023px) {
-    .about__text {
-      max-width: 720px;
-      margin: 40px auto 33px auto;
-    }
+  .about__text {
+    max-width: 720px;
+    margin: 40px auto 33px auto;
   }
+}

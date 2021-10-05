@@ -1,19 +1,19 @@
 .fullscreen__subtitle {
-    margin: auto;
-    max-width: 360px;
-    font-style: normal;
-    font-weight: normal;
-    font-size: 18px;
-    line-height: 122%;
-    align-items: flex-start;
-    margin-top: 0;
-    text-align: center; 
+  margin: auto;
+  max-width: 360px;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 122%;
+  align-items: flex-start;
+  margin-top: 0;
+  text-align: center;
 }
 
 @media (max-width: 767px) {
-    .fullscreen__subtitle {
-        font-size: 14px;
-        line-height: 114%;
-        max-width: 288px;
-    }
+  .fullscreen__subtitle {
+    font-size: 14px;
+    line-height: 114%;
+    max-width: 288px;
+  }
 }
